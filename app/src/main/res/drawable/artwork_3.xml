@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Sky -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M0,0h200v200h-200z" />
+    <!-- Ground -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M0,170h200v30h-200z" />
+    <!-- Taj Mahal Main Structure -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,170 L60,110 Q100,60 140,110 L140,170 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M90,110 Q100,80 110,110" />
+    <!-- Minarets -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,170 L40,120 L45,120 L45,170 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M155,170 L155,120 L160,120 L160,170 Z" />
+</vector>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="artwork_1_title">Golden Gate Bridge</string>
+    <string name="artwork_1_artist">San Francisco, USA (2024)</string>
+    <string name="artwork_2_title">Eiffel Tower</string>
+    <string name="artwork_2_artist">Paris, France (2023)</string>
+    <string name="artwork_3_title">Taj Mahal</string>
+    <string name="artwork_3_artist">Agra, India (2022)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>

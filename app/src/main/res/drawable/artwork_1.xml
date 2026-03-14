@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+    <!-- Sky -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M0,0h300v200h-300z" />
+    <!-- Water -->
+    <path
+        android:fillColor="#00008B"
+        android:pathData="M0,150h300v50h-300z" />
+    <!-- Golden Gate Bridge -->
+    <path
+        android:fillColor="#FF4500"
+        android:pathData="M50,150 L50,50 L60,50 L60,150 Z" />
+    <path
+        android:fillColor="#FF4500"
+        android:pathData="M240,150 L240,50 L250,50 L250,150 Z" />
+    <path
+        android:fillColor="#FF4500"
+        android:pathData="M0,100 Q150,150 300,100 L300,110 Q150,160 0,110 Z" />
+    <path
+        android:strokeColor="#FF4500"
+        android:strokeWidth="2"
+        android:pathData="M55,50 Q150,100 245,50" />
+</vector>

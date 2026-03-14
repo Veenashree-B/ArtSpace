@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Sky -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M0,0h200v200h-200z" />
+    <!-- Ground -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M0,180h200v20h-200z" />
+    <!-- Eiffel Tower -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M100,20 L110,180 L90,180 Z" />
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M80,180 Q100,140 120,180" />
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M90,120 h20 v5 h-20 Z" />
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M95,70 h10 v3 h-10 Z" />
+</vector>
